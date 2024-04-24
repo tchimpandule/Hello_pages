@@ -1,0 +1,18 @@
+---
+title: "My first oage"
+---
+
+```{r}
+library(reactable)
+```
+
+
+```{r}
+reactable(infert)
+```
+
+
+```{r}
+plot(women)
+```
+
